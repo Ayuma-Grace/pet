@@ -12,5 +12,13 @@ This is a Python project where I built a **digital pet** using Object-Oriented P
 ## 💻 How to Run
 
 1. Clone the repository:
+
+
 2.  Navigate to the project folder:
-3.  3. Run the file:
+
+  
+3.   Run the file:
+
+  
+4.   ## ✨ Author
+- Grace Ayuma ✨
